@@ -1,6 +1,6 @@
 Project: Movie Trailer Website  - AmandaJBell
 ================================
-This project was completed for the Udacity Fullstack Web Developer Nanodegree, and displays posters and titles of some of my favorite movies. When a poster are clicked, the trailer of that film plays.
+This project was completed for the Udacity Fullstack Web Developer Nanodegree, and displays a webpage with posters and titles of some of my favorite movies. When a poster are clicked, the trailer of that film plays.
 
 Required Libraries and Dependencies
 -----------------------------------
